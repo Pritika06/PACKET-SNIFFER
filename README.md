@@ -54,6 +54,6 @@ Ether / IP / TCP 192.168.1.9:43633 > 20.198.119.84:https A
 Ether / IP / TCP 192.168.1.9:43859 > 20.198.119.84:https A / Raw
 
  
- 🎉 We welcome contributions from everyone.
+ 🎉 We welcome contributions.
 
 
